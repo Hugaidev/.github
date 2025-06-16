@@ -35,7 +35,7 @@ Want to see it in action? Explore our [Case Studies](https://hugai.dev/methodolo
 - [hugai.dev](https://hugai.dev) – full methodology & documentation
 - [AI Development Lifecycle](https://hugai.dev/methodology/ai-development-lifecycle)
 - [Agents](https://hugai.dev/agents)
-- [Tooling & Pipelines](https://hugai.dev/tooling-and-infrastructure/)
+- [Tooling & Infrastructure](https://hugai.dev/tooling-and-infrastructure/)
 
 ---
 
